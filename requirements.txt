@@ -16,3 +16,4 @@ colorama
 python-dateutil
 onnxruntime
 browser-use-sdk
+kernel
